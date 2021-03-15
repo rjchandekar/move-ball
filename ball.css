@@ -1,0 +1,12 @@
+body{
+    margin: auto;
+    position: relative;   
+}
+
+#circle{
+    position: absolute;
+    background-color: darkkhaki;
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+}
